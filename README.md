@@ -11,7 +11,7 @@ Implement and experiment with Stable Diffusion models for generating high-qualit
 Utilize ComfyUI for an interactive and node-based workflow to customize image outputs.
 Explore fine-tuning, control mechanisms, and image-to-image generation
 
-### functionalities :
+### Functionalities 
 1. Load Checkpoint :: Loads the Stable Diffusion model checkpoint (.ckpt or .safetensors) into memory.
 2. CLIP Text Encode (Prompt - Positive & Negative) : Converts the input text into a machine-readable format for guiding image generation.
 3. Empty Latent Image : Creates a blank latent space (random noise) of a specific resolution. This serves as the starting point for generating the image.
@@ -21,7 +21,7 @@ Explore fine-tuning, control mechanisms, and image-to-image generation
 
 
 
-## Output 
+### Output 
 ![image ](image1.png)
 
 
