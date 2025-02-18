@@ -10,3 +10,8 @@ ComfyUI provides a graphical user interface that allows users to create complex 
 Implement and experiment with Stable Diffusion models for generating high-quality images.
 Utilize ComfyUI for an interactive and node-based workflow to customize image outputs.
 Explore fine-tuning, control mechanisms, and image-to-image generation
+
+## Output 
+![image ](image1.png)
+
+![image](image2.png)
